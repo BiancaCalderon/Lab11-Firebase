@@ -6,7 +6,7 @@ import java.util.Random
 import java.util.UUID
 
 /**
- * Utilities for Ratings.
+ * Utilities for Ratings
  */
 object RatingUtil {
 
